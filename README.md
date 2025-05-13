@@ -14,14 +14,7 @@ The Reminders Notifications component provides a modern, animated interface for 
 - 📱 **Platform Adaptation**: Different Time Picker handling for iOS and Android 
 - 🌈 **Beautiful Gradient Buttons**: Modern gradient buttons with animated feedback
 
-## Preview
 
-<!-- Insert your demo video here -->
-<!-- Method 1: If hosting on GitHub -->
-https://user-username.github.io/repo-name/path/to/demo-video.mp4
-
-<!-- Method 2: Using an animated GIF -->
-![Demo Animation](./assets/demo.gif)
 
 ## Installation
 
@@ -83,39 +76,6 @@ The component accepts the following props:
 | onTimesSelected | Function | undefined | Callback when user confirms selections |
 | theme | Object | Light theme | Customization options for colors |
 
-## How to Add a Video to Your README
-
-### Option 1: Using GitHub Hosting (Recommended)
-
-1. Drag and drop your video file into the GitHub issue creation box
-2. GitHub will upload it and provide a URL like `https://user-images.githubusercontent.com/...`
-3. Copy this URL and paste it into your README.md
-4. The video will be embedded and playable directly in GitHub
-
-```
-https://user-images.githubusercontent.com/12345678/123456789-video-id.mp4
-```
-
-### Option 2: Using an Animated GIF
-
-1. Convert your video to GIF using a tool like [ezgif.com](https://ezgif.com/video-to-gif)
-2. Save the GIF in your project's assets folder
-3. Reference it in your README.md
-
-```
-![Demo Animation](./assets/demo.gif)
-```
-
-### Option 3: Using Loom or Other Video Hosting
-
-1. Upload your video to [Loom](https://www.loom.com/) or other video hosting service
-2. Get the embed code or link
-3. Add it to your README.md
-
-```
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/123abc.jpg)](https://www.loom.com/share/123abc)
-```
-
 ## Technical Details
 
 ### Time Slot Management
@@ -143,4 +103,4 @@ The UI includes several animated elements:
 
 ## License
 
-MIT © [Your Name]
+MIT © [rs-4]
